@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com</groupId>
-	<artifactId>javastream.example</artifactId>
+	<artifactId>java-stream</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>java-stream</name>
 	<description>Demo project for Spring Boot</description>
